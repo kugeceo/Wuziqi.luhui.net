@@ -15,6 +15,9 @@ http://gobang.luhui.net/
 
 https://wuzi.netlify.app/
 ![演示展示](https://wuziqi.luhui.net/gobangscreenshot20220816142740.jpg)
+
+
+
 五子棋 - in html5是一款使用Javascript开发的开源小游戏，不依赖任何类库，不依赖任何后台程序，全部原生Javascript进行AI计算，欢迎广大业内同行多多交流指正，共同完善。
 
 ##特点
