@@ -5,6 +5,13 @@
 联系：itlwei@163.com  QQ:28701884<br>
 Demo：https://itlwei.github.io/Wuzi/
 
+
+http://wuziqi.luhui.net/
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e611785f-6596-4fc7-b19f-a44e0d1a3171/deploy-status)](https://app.netlify.com/sites/wuzi/deploys)
+
+https://wuzi.netlify.app/
+
 五子棋 - in html5是一款使用Javascript开发的开源小游戏，不依赖任何类库，不依赖任何后台程序，全部原生Javascript进行AI计算，欢迎广大业内同行多多交流指正，共同完善。
 
 ##特点
