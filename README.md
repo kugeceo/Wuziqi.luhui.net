@@ -11,9 +11,10 @@ http://wuziqi.luhui.net/
 
 http://gobang.luhui.net/
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e611785f-6596-4fc7-b19f-a44e0d1a3171/deploy-status)](https://app.netlify.com/sites/wuzi/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5afdd90f-3220-41b7-b986-5dd6166d559e/deploy-status)](https://app.netlify.com/sites/wuziqis/deploys)
 
-https://wuzi.netlify.app/
+
+https://wuziqis.netlify.app/
 ![演示展示](https://wuziqi.luhui.net/gobangscreenshot20220816142740.jpg)
 
 
